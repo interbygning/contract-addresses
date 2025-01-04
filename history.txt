@@ -90,3 +90,4 @@
 2025-12-09 18:01:33 fix null pointer
 2025-07-30 14:14:14 adjust error messages
 2025-11-25 22:38:05 change configuration
+2025-01-04 16:29:35 adjust validation rules
